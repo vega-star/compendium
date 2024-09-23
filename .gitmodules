@@ -4,3 +4,6 @@
 [submodule "Games/Godot/godot-strata"]
 	path = Games/Godot/godot-strata
 	url = https://github.com/vega-star/godot-strata.git
+[submodule "Games/Godot/lightkeepers"]
+	path = Games/Godot/lightkeepers
+	url = https://github.com/vega-star/lightkeepers.git
